@@ -24,7 +24,7 @@
 I am a student <img src="https://media.giphy.com/media/2Hu1MPHsU85Vu/giphy.gif" width="30"> from Russia.
 - :telescope: I'm study at university.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I lear new programming languages.
+- :zap: In my free time, I learn new programming languages.
 - :mailbox: (I don't know why) How to reach me: [![VK Badge](https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge)](https://vk.com/avititnev)
 
 ---
